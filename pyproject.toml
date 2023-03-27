@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [tool.poetry]
 name = "APA_VV_Tools"
 version = "1.0.0"
