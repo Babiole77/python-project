@@ -8,5 +8,6 @@ Verification and validation tools used in APA project
 - [Poetry](https://python-poetry.org/)
 
 ## Installation
-- To install dependencies for a package: poetry install
-- To run tests for a package: poetry run tox  
+- To install dependencies for a package: ```poetry install```
+- To enable the virtual environment: ```poetry shell```
+- To run tests for a package: ```poetry run tox```
